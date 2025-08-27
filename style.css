@@ -48,7 +48,7 @@
 /* HIDE HAMBURGER MENU FOR DESKTOP  */
 @media screen and (min-width: 1280px) {
   .topnav {
-    display: none;
+/*     display: none; */
   }
 }
 
@@ -73,9 +73,6 @@
 /* MOBILE RESPONSIVENESS MOBILE PORTRAIT 2 START */
 
 @media screen and (max-width: 320px) {
-  .page-navigation {
-    display: none;
-  }
 
   .grid-content {
     display: grid;
@@ -157,9 +154,6 @@
 
 /* MOBILE RESPONSIVENESS MOBILE LANDSCAPE */
 @media screen and (min-width: 321px) and (max-width: 480px) {
-  .page-navigation {
-    display: none;
-  }
 
   /*     FROM FLAGSTAFF CAROUSEL  */
   .grid-content {
@@ -267,9 +261,6 @@
 
 /* MOBILE RESPONSIVENESS SMALL TABLET PORTRAIT */
 @media screen and (min-width: 481px) and (max-width: 540px) {
-  .page-navigation {
-    display: none;
-  }
 
   .grid-content {
     display: grid;
@@ -332,9 +323,6 @@
 
 /* MEDIA QUERIES SMALL TABLET LANDSCAPE */
 @media screen and (min-width: 541px) and (max-width: 720px) {
-  .page-navigation {
-    display: none;
-  }
 
   .grid-content {
     display: grid;
@@ -395,9 +383,6 @@
 
 /* MOBILE RESPONSIVENESS MEDIUM TABLET DEVICE PORTRAIT */
 @media screen and (min-width: 721px) and (max-width: 768px) {
-  .page-navigation {
-    display: none;
-  }
 
   .grid-content {
     display: grid;
@@ -458,9 +443,6 @@
 
 /* MOBILE RESPONSIVENESS MEDIUM TABLET DEVICE PORTRAIT */
 @media screen and (min-width: 769px) and (max-width: 828px) {
-  .page-navigation {
-    display: none;
-  }
 
   .grid-content {
     display: grid;
@@ -521,9 +503,6 @@
 
 /* MOBILE RESPONSIVENESS MEDIUM TABLET DEVICE LANDSCAPE */
 @media screen and (min-width: 991px) and (max-width: 1024px) {
-  .page-navigation {
-    display: none;
-  }
 
   .grid-content {
     display: grid;
@@ -584,9 +563,6 @@
 
 /* MOBILE RESPONSIVENESS MEDIUM TABLET DEVICE LANDSCAPE */
 @media screen and (min-width: 829px) and (max-width: 990px) {
-  .page-navigation {
-    display: none;
-  }
 
   .grid-content {
     display: grid;
@@ -648,9 +624,6 @@
 
 /* MOBILE RESPONSIVENESS EXTRA LARGE DEVICE */
 @media screen and (min-width: 991px) and (max-width: 1025px) {
-  .page-navigation {
-    display: none;
-  }
 
   .grid-content {
     display: grid;
@@ -711,9 +684,6 @@
 
 /* MOBILE RESPONSIVENESS EXTRA LARGE DEVICE */
 @media screen and (min-width: 1026px) and (max-width: 1200px) {
-  .page-navigation {
-    display: none;
-  }
 
   .grid-content {
     display: grid;
@@ -774,9 +744,6 @@
 
 /* MOBILE RESPONSIVENESS EXTRA EXTRA LARGE DEVICE START */
 @media screen and (min-width: 1201px) {
-  .page-navigation {
-    display: none;
-  }
 
   .grid-content {
     display: grid;
