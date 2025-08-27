@@ -23,7 +23,7 @@
 
 /* STYLE THE LINKS IN HAMBURGER DROPDOWN */
 .topnav a {
-  color: #5f9ea0;
+  color: #4682b4; 
   font-size: 20px;
   display: block;
   justify-self: right;
@@ -178,7 +178,7 @@
     display: grid;
     /*     max-height: 280px; */
     column-gap: 10px;
-
+    text-align: center;
     justify-content: center;
     align-items: center;
     /*         border: 10px solid green; */
